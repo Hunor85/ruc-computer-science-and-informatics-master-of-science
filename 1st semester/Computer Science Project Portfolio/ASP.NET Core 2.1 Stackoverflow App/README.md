@@ -1,5 +1,4 @@
-# RUC 2018 2nd Semester Autumn
-## RAWDATA Computer Science master course 
+# RAWDATA Computer Science master course 
 
 ## Final Exam Project - Stack Overflow Viewer Application  
 
