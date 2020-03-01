@@ -1,4 +1,4 @@
-# ruc-computer-science-and-informatics-master-of-science
+# RUC - Master of Science in Computer Science and Informatics curriculum
 
 | Year        | Semester | Course Name                               | ECTS points |
 | :---------- | :------: | ----------------------------------------- | :---------: |
