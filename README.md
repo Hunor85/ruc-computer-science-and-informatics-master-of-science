@@ -1,4 +1,4 @@
-# RUC - Master of Science in Computer Science and Informatics curriculum
+# Master of Science in Computer Science and Informatics curriculum - Roskilde University
 
 | Year        | Semester | Course Name                               | ECTS points |
 | :---------- | :------: | ----------------------------------------- | :---------: |
